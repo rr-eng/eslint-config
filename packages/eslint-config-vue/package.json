@@ -10,11 +10,11 @@
   "license": "ISC",
   "publishConfig": {
     "access": "public",
-    "registry": "https://www.npmjs.com/~f119"
+    "registry": "https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:fr119/FR-Config.git"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.51.0",
