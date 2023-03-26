@@ -1,5 +1,5 @@
 {
-  "name": "@f119/eslint-config-typescript-node",
+  "name": "@rr1/eslint-config-typescript-node",
   "version": "0.0.1",
   "description": "eslint config typescript node",
   "main": "index.js",

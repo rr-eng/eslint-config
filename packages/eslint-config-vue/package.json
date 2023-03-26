@@ -1,5 +1,5 @@
 {
-  "name": "@f119/eslint-config-vue",
+  "name": "@rr1/eslint-config-vue",
   "version": "0.0.1",
   "description": "eslint config vue",
   "main": "index.js",
